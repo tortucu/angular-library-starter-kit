@@ -1,4 +1,4 @@
-# Angular-library-starter-kit with Demo app
+# Angular library starter kit with Demo app
 
 ## Develop with Demo
 
