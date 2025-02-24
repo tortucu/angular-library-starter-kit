@@ -1,0 +1,14 @@
+{
+  "name": "@tortuc/components",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "*",
+    "@angular/core": "*",
+    "@angular/cdk": "*",
+    "@angular/material": "*"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
